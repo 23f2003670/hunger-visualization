@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal but physically believable architectural scene of a large staircase system inside a minimal, softly lit space. The staircase is divided into several visible sections. Each individual section appears to slope upward when viewed locally, with people walking upward on each segment. However, when seen as a whole, the entire staircase system clearly descends downward overall, creating a subtle but undeniable contradiction. The geometry is coherent and realistic, with natural lighting, shadows, and materials like stone or concrete. People on different sections appear to be confidently walking 'up,' unaware of the global downward structure. The composition makes both the local upward direction and global downward direction visible at the same time. No text, no symbols, no diagrams, no impossible Escher-style distortions, but a deeply unsettling and logically contradictory spatial arrangement. Photorealistic, cinematic, single frame. Negative prompt: text, numbers, charts, labels, diagrams, optical illusion drawings, abstract art, impossible geometry, Escher, surreal floating elements",
+  "model": "ChatGPT Image Generator",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each staircase segment rises locally while the entire structure descends globally, mirroring how subgroup trends reverse when combined"
+}
