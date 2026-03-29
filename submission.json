@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, emotionally powerful scene showing a long dining table stretching into darkness, viewed from a slightly elevated cinematic angle. At the near end, a single well-dressed person sits surrounded by an overwhelming abundance of food—overflowing plates, fruits, meat, desserts spilling off the table in warm golden light. As the table extends into the distance, the food gradually disappears, and on the far end, dozens of thin, starving people sit with empty plates, barely visible in cold blue shadows. The table itself subtly cracks and fractures as it moves from wealth to hunger, symbolizing inequality. High contrast lighting, dramatic composition, ultra-detailed, magazine cover aesthetic, no text, no labels, no charts, single frame, deeply symbolic. Negative prompt: graphs, charts, bar chart, pie chart, numbers, text, infographic, watermark, split panels",
+  "model": "ChatGPT Image Generator",
+  "dataset_name": "Global Hunger Index",
+  "dataset_url": "https://www.globalhungerindex.org/",
+  "insight": "Food inequality means a small number of people have excess while millions remain starving"
+}
